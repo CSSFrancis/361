@@ -1,0 +1,12 @@
+
+channels:
+  - conda-forge
+dependencies:
+  - skimage
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+  - pyxem
+  - scanning_drift_corr
+  - scikit-learn
