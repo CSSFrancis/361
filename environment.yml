@@ -2,7 +2,7 @@
 channels:
   - conda-forge
 dependencies:
-  - skimage
+  - scikit-image
   - scipy
   - numpy
   - pandas
